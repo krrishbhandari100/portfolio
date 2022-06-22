@@ -1,0 +1,8 @@
+* {
+    scroll-behavior: smooth;
+}
+
+#intro, #about, #services {
+    height: calc(100vh - 4rem);
+    width: 100%;
+}
